@@ -1,4 +1,4 @@
-markdown# C Language Digital Image Processing
+# C Language Digital Image Processing
 
 > 基于 C 语言的 8 位灰度 BMP 图像处理项目，支持图像读写、四角涂黑、仿射变换（平移 / 旋转 / 缩放）及均值滤波。
 
